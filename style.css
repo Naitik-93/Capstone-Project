@@ -188,8 +188,7 @@
     }
 
     .card:hover {
-      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-      transform: translateY(-2px);
+      transform: translateY(-5px);
     }
 
     .card-highlight {
@@ -202,10 +201,6 @@
 
     .card-hot {
       border-left-color: #21C45D;
-    }
-
-    .card-trending {
-      border-left-color: #0DA2E7;
     }
 
     .badge {
@@ -223,9 +218,6 @@
       color: hsl(142, 71%, 45%);
     }
 
-    .badge-trending {
-      color: hsl(199, 89%, 48%);
-    }
 
     .card-title {
       font-size: 1.25rem;
@@ -235,7 +227,6 @@
 
     .card-description {
       font-size: 0.875rem;
-      color: hsl(215.4, 16.3%, 56.9%);
       margin-bottom: 1rem;
     }
 
