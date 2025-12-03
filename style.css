@@ -84,6 +84,7 @@
     .btn-login {
       background: transparent;
       color: #7F8DA3;
+      text-decoration: none;
     }
 
     .btn-login:hover {
